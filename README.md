@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rachel-bock
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Node.js/Express and Ruby on Rails.
-- 📫 Please feel free to text me at 303-250-8602.
-
+- 🌱 I’ve been working for the last 3 years as a Software Development Engineer.
+- 📫 Please feel free to reach out to me at LinkedIn.com/in/rachelbock.
 <!---
 rachel-bock/rachel-bock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
